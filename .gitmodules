@@ -1,0 +1,3 @@
+[submodule "springREACTFrontEnd"]
+	path = springREACTFrontEnd
+	url = git@github.com:greenisher/springREACTFrontEnd.git
